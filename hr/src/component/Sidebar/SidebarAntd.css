@@ -1,0 +1,97 @@
+/* Custom Sidebar styles */
+.custom-sidebar {
+    background-color: #373766 !important;
+    font-size: 24px !important;
+}
+
+.custom-sidebar .ant-layout-sider-children {
+    background-color: #2e2e48;
+}
+
+/* Language select styles */
+.language-select {
+    margin: 10px;
+    width: calc(100% - 20px) !important;
+}
+
+.language-select .ant-select-selector {
+    background-color: #3f3f91 !important;
+    border: none !important;
+    color: white !important;
+}
+
+.language-select .ant-select-selection-item {
+    color: white !important;
+}
+
+/* Menu styles */
+.custom-menu {
+    font-size: 18px !important;
+    background-color: transparent !important;
+}
+
+.custom-menu .ant-menu-item,
+.custom-menu .ant-menu-submenu-title {
+    color: white !important;
+    background-color: transparent;
+}
+
+.custom-menu .ant-menu-item:hover,
+.custom-menu .ant-menu-item-active,
+.custom-menu .ant-menu-item-selected,
+.custom-menu .ant-menu-submenu-title:hover {
+    background-color: #3f3f91 !important;
+    color: white !important;
+}
+
+.custom-menu .ant-menu-submenu-inline {
+    background-color: #2e2e48;
+}
+
+.custom-menu .ant-menu-sub.ant-menu-inline {
+    background-color: #2e2e48 !important;
+}
+
+.sidebar-title {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+}
+
+/* Collapse button styles */
+.collapse-button {
+    color: white !important;
+    background: transparent !important;
+    border: none !important;
+}
+
+.collapse-button:hover {
+    background-color: transparent !important;
+    color: #4f4fa1 !important;
+}
+
+/* Override ant-menu-item selected styles */
+.custom-menu .ant-menu-item-selected {
+    background-color: #3f3f91 !important;
+}
+
+
+/* Submenu arrow color */
+.custom-menu .ant-menu-submenu-arrow {
+    color: white !important;
+}
+
+/* Scrollbar styles */
+.custom-sidebar ::-webkit-scrollbar {
+    width: 10px;
+}
+
+.custom-sidebar ::-webkit-scrollbar-thumb {
+    background-color: #3f3f91;
+    border-radius: 5px;
+}
+
+.custom-sidebar ::-webkit-scrollbar-track {
+    background-color: #2e2e48;
+}

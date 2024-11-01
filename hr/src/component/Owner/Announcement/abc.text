@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Cập nhật thông tin nhân sự - Yêu cầu từ phòng HR",
+        "content": "Kính gửi toàn thể CBNV,\n\nTheo chủ trương của công ty về việc cập nhật và hoàn thiện hồ sơ nhân sự năm 2024, đề nghị tất cả nhân viên thực hiện các công việc sau:\n\n1. Cập nhật thông tin cá nhân trên hệ thống\n2. Bổ sung các chứng chỉ, bằng cấp mới (nếu có)\n3. Xác nhận thông tin bảo hiểm xã hội\n4. Cập nhật ảnh đại diện mới (nếu cần)\n\nHạn hoàn thành: 15/11/2024\n\nMọi thắc mắc vui lòng liên hệ phòng HR để được hỗ trợ.",
+        "url": "https://www.google.com/",
+        "countView": 0,
+        "imgIcon": "1",
+        "timeBegin": 0,
+        "timeEnd": 0,
+        "type": "dialog",
+        "modalType": "info"
+    },
+    {
+        "title": "Thông báo nâng cấp hệ thống",
+        "content": "Kính gửi toàn thể người dùng,\n\nHệ thống sẽ tiến hành nâng cấp vào ngày 15/11/2024 từ 22:00 - 23:00.\n\nTrong thời gian này, một số tính năng có thể không khả dụng. Vui lòng lưu lại công việc và đăng xuất khỏi hệ thống trước thời gian bảo trì.\n\nXin cảm ơn sự hợp tác của quý vị.",
+        "url": "https://support.company.com/system-upgrade",
+        "countView": 0,
+        "imgIcon": "0",
+        "timeBegin": 0,
+        "timeEnd": 0,
+        "type": "dialog",
+        "modalType": "info"
+    },
+    {
+        "title": "CẢNH BÁO BẢO MẬT KHẨN CẤP",
+        "content": "CẢNH BÁO KHẨN: Phát hiện các hoạt động đáng ngờ trên hệ thống\n\nYêu cầu tất cả nhân viên:\n1. Thay đổi mật khẩu ngay lập tức\n2. Bật xác thực 2 yếu tố\n3. Không chia sẻ thông tin đăng nhập\n4. Báo cáo ngay các hoạt động đáng ngờ\n\nLiên hệ IT Support ngay nếu cần hỗ trợ: support@company.com",
+        "url": "https://security.company.com",
+        "countView": 0,
+        "imgIcon": "3",
+        "timeBegin": 1696179600000,
+        "timeEnd": 1791565200000,
+        "type": "dialog",
+        "modalType": "error"
+    },
+    {
+        "title": "Chúc mừng: Hoàn thành nâng cấp hệ thống",
+        "content": "Kính gửi người dùng,\n\nChúng tôi vui mừng thông báo việc nâng cấp hệ thống đã hoàn tất thành công!\n\nCác tính năng mới:\n- Giao diện người dùng được cải thiện\n- Tốc độ xử lý nhanh hơn 50%\n- Tính năng báo cáo nâng cao\n- Tích hợp trí tuệ nhân tạo\n\nKhám phá ngay các tính năng mới!",
+        "url": "https://docs.company.com/new-features",
+        "countView": 0,
+        "imgIcon": "1",
+        "timeBegin": 0,
+        "timeEnd": 0,
+        "type": "dialog",
+        "modalType": "success"
+    },
+    {
+        "title": "Truy cập Google Chat - Kênh liên lạc chính thức",
+        "content": "Kênh Google Chat chính thức của công ty đã được tạo. Vui lòng tham gia để nhận các thông báo quan trọng và trao đổi công việc.",
+        "url": "https://mail.google.com/chat/u/0/#chat/space/AAAAsN7cNnU",
+        "timeBegin": 1672534800000,
+        "timeEnd": 1830301200000,
+        "type": "announcement",
+        "modalType": "info"
+    },
+    {
+        "title": "Cổng thông tin dành cho Quản lý",
+        "content": "Truy cập cổng thông tin dành cho quản lý để xem báo cáo và quản lý nhân sự.",
+        "url": "http://fandbsoft.com:999/owner/login",
+        "timeBegin": 1727715600000,
+        "timeEnd": 1730307600000,
+        "type": "document",
+        "modalType": "info"
+    },
+    {
+        "title": "Cổng thông tin Nhân viên",
+        "content": "Truy cập cổng thông tin nhân viên để cập nhật thông tin cá nhân và xem các chính sách công ty.",
+        "url": "http://fandbsoft.com:999/employee/login",
+        "timeBegin": 1729841974600,
+        "timeEnd": 1731085200000,
+        "type": "document",
+        "modalType": "info"
+    }
+]

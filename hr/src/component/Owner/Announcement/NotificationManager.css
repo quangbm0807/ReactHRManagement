@@ -1,0 +1,33 @@
+.halloween-modal {
+    position: relative;
+    background-color: #2c2c2c;
+    /* Màu nền tối */
+    color: #f39c12;
+    /* Màu chữ vàng */
+    border: 2px solid #e74c3c;
+    /* Đường viền đỏ */
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.7);
+    /* Đổ bóng đỏ */
+}
+
+.halloween-icon {
+    animation: shake 0.5s infinite alternate;
+}
+
+@keyframes shake {
+    0% {
+        transform: translate(0);
+    }
+
+    100% {
+        transform: translate(-5px);
+    }
+}
+
+.halloween-content {
+    background: url('rb_1484.png') no-repeat center center;
+    /* Thay đường dẫn thành đường dẫn đến hình nền Halloween */
+    background-size: cover;
+    padding: 20px;
+    border-radius: 8px;
+}

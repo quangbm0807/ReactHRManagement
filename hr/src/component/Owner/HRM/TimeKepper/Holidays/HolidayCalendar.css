@@ -1,0 +1,19 @@
+.non-holiday {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.non-holiday:hover {
+    background-color: #0d6efd !important;
+    color: white;
+    cursor: pointer;
+}
+
+.highlight {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.holiday-legend:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
