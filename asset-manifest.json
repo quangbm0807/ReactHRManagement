@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quangbm0807.github.io/ReactHRManagement/static/css/main.672b5211.css",
+    "main.js": "/quangbm0807.github.io/ReactHRManagement/static/js/main.af5d5b8b.js",
+    "static/media/construction.png": "/quangbm0807.github.io/ReactHRManagement/static/media/construction.c5864b3dd48302dbdc7c.png",
+    "index.html": "/quangbm0807.github.io/ReactHRManagement/index.html",
+    "main.672b5211.css.map": "/quangbm0807.github.io/ReactHRManagement/static/css/main.672b5211.css.map",
+    "main.af5d5b8b.js.map": "/quangbm0807.github.io/ReactHRManagement/static/js/main.af5d5b8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672b5211.css",
+    "static/js/main.af5d5b8b.js"
+  ]
+}
