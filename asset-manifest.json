@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ReactHRManagement/static/css/main.672b5211.css",
-    "main.js": "/ReactHRManagement/static/js/main.5af7c9e7.js",
-    "static/media/construction.png": "/ReactHRManagement/static/media/construction.c5864b3dd48302dbdc7c.png",
-    "index.html": "/ReactHRManagement/index.html",
-    "main.672b5211.css.map": "/ReactHRManagement/static/css/main.672b5211.css.map",
-    "main.5af7c9e7.js.map": "/ReactHRManagement/static/js/main.5af7c9e7.js.map"
+    "main.css": "./static/css/main.672b5211.css",
+    "main.js": "./static/js/main.fc875fb0.js",
+    "static/media/construction.png": "./static/media/construction.c5864b3dd48302dbdc7c.png",
+    "index.html": "./index.html",
+    "main.672b5211.css.map": "./static/css/main.672b5211.css.map",
+    "main.fc875fb0.js.map": "./static/js/main.fc875fb0.js.map"
   },
   "entrypoints": [
     "static/css/main.672b5211.css",
-    "static/js/main.5af7c9e7.js"
+    "static/js/main.fc875fb0.js"
   ]
 }
